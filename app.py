@@ -67,4 +67,5 @@ heading = Label(top, text="CatsVSDogs Classification",
                 pady=20, font=('arial',20,'bold'))
 heading.configure(background='#CDCDCD',foreground='#364156')
 heading.pack()
+#con chim be bé nó đậu cành tre
 top.mainloop()
